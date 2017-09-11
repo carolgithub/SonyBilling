@@ -1,0 +1,6 @@
+OS_ODBC = 10, 68, 567, 512, 
+ReportForm = 110, 110, 667, 554, , 154, 154, 711, 598, CZ
+five_char = 0, 0, 0, 0, C
+frm_Billing = 44, 44, 601, 488, , 22, 22, 579, 466, C
+NumbertoWords = 0, 0, 665, 313, 
+FileReference = 0, 0, 0, 0, C
